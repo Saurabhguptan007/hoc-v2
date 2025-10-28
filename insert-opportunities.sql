@@ -1,0 +1,5 @@
+INSERT INTO opportunities (title, institution, type, description, deadline, eligibility, amount, application_url, featured) VALUES
+('STEM Excellence Scholarship 2025', 'Harvard University', 'scholarship', 'Full scholarship for outstanding STEM students pursuing engineering or computer science', '2025-12-31', 'GPA 3.5+, SAT 1400+', '$50,000', 'https://example.com/apply', TRUE),
+('Harvard Summer Program', 'Harvard University', 'program', 'Intensive 6-week summer program for high school students interested in STEM', '2025-06-30', 'Grade 10-12, Strong academics', 'Full Coverage', 'https://example.com/apply', TRUE),
+('Stanford MBA Admission', 'Stanford University', 'admission', 'Apply for Stanford Graduate School of Business MBA Program', '2025-11-15', 'Bachelor degree, GMAT 700+', 'N/A', 'https://example.com/apply', FALSE),
+('Global Leaders Scholarship', 'International Foundation', 'scholarship', 'Scholarship for students demonstrating leadership and community service', '2025-10-31', 'GPA 3.0+, Leadership experience', '$25,000', 'https://example.com/apply', TRUE);
